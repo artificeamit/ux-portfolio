@@ -20,5 +20,5 @@ Focused on B2B SaaS, LMS, AI Products & Admin Dashboards
 
 ## 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/amitrajora/
-- Portfolio: https://artificeamit.framer.website/
+- Portfolio: https://amitrajora.com/
 - Email: artifice.amit@gmail.com
